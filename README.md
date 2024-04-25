@@ -13,9 +13,9 @@
    https://app.box.com/s/krpy36ugllvgjp39g8reca6h3b0nd4r5
 
 4. main.pyをエディタで開き、7~9行目を編集してください。
-   model_path = ダウンロードしたモデルのパス
-   test_image_filepath = テストしたい画像のパス(日本語不可！)
-   output_image_filepath = 結果出力画像のパス(日本語不可！)
+   model_path = ダウンロードしたモデルのパス  
+   test_image_filepath = テストしたい画像のパス(日本語不可！)  
+   output_image_filepath = 結果出力画像のパス(日本語不可！)   
 
 5. main.pyを実行してください。  
    ```python main.py```
