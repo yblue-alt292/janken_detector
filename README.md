@@ -12,7 +12,7 @@
 3. BOXよりモデルをダウンロードして、modelディレクトリに入れてください  
    https://app.box.com/s/o9zh6qyh52wpua9fxs6mgtxtfwbr8e6t
 
-4. main.pyをエディタで開き、7~9行目を編集してください。
+4. main.pyをエディタで開き、7~9行目を編集してください。  
    model_path = ダウンロードしたモデルのパス  
    test_image_filepath = テストしたい画像のパス(日本語不可！)  
    output_image_filepath = 結果出力画像のパス(日本語不可！)   
