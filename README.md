@@ -10,7 +10,7 @@
    ```python -m venv env```
    ```pip install -r ./requirements.txt```
 3. BOXよりモデルをダウンロードして、modelディレクトリに入れてください  
-   https://app.box.com/s/krpy36ugllvgjp39g8reca6h3b0nd4r5
+   https://app.box.com/s/o9zh6qyh52wpua9fxs6mgtxtfwbr8e6t
 
 4. main.pyをエディタで開き、7~9行目を編集してください。
    model_path = ダウンロードしたモデルのパス  
