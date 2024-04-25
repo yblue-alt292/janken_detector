@@ -5,7 +5,8 @@
 ## 使い方
 1. このリポジトリをクローンし、作業ディレクトリにしてください。  
    ```git clone https://github.com/yblue-alt292/janken_detector.git```
-2. python仮想環境を作成し、requirements.txtより必要なライブラリをインストールしてください。  
+2. python仮想環境を作成し、requirements.txtより必要なライブラリをインストールしてください。
+   開発時のpython環境は3.10.9です。  
    ```python -m venv env```
    ```pip install -r ./requirements.txt```
 3. BOXよりモデルをダウンロードして、modelディレクトリに入れてください  
@@ -16,7 +17,7 @@
    test_image_filepath = テストしたい画像のパス(日本語不可！)
    output_image_filepath = 結果出力画像のパス(日本語不可！)
 
-5. main.pyを実行してください。
+5. main.pyを実行してください。  
    ```python main.py```
 
 
